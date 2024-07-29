@@ -1,0 +1,52 @@
+
+.price-btn{ height: 50px;
+    width: 100px;
+    background-color: orange;
+    border-radius: 50px;
+background-image: ;
+}
+.price-btn:hover{
+    background-color: brown;
+}
+    
+.Teacup-btn{
+    height: 50px;
+    width: 100px;
+    background-color: orange;
+    border-radius: 50px;
+    text-align: start;
+}
+
+.Teacup-btn:hover{
+background-color: blue;
+
+}
+
+.Logo-btn{height: 50px;
+    width: 100px;
+    background-color: orange;
+    border-radius: 50px;}
+
+    .Logo-btn:hover{
+       background-color: blueviolet;
+       
+    }
+.Design-btn{height: 50px;
+    width: 100px;
+    background-color: orange;
+    border-radius: 50px;}
+
+    Design-btn:hover{
+        background-color: chartreuse;
+    }
+.Design-btn{height: 50px;
+    width: 100px;
+    background-color: orange;
+    border-radius: 50px;}
+    .Design-btn:hover{
+        background-color: crimson;
+    }
+
+    .Dinnerset-btn:hover{
+        background-color: coral;
+    }

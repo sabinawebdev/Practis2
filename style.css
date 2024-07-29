@@ -1,0 +1,83 @@
+.Display{  
+display: flex;
+gap: 20px;
+margin: 10px;
+}
+.btn{
+border: 2px solid black;
+padding: 20px;
+}
+.ctn{
+border: 2px solid black;
+padding: 20px;
+}
+
+
+
+.one{
+    display: flex;
+    margin: 50px;
+    gap: 20px;
+    
+}
+.two{
+    border: 2px solid blue;
+    width: 50%;
+    padding: 15px;
+}
+.three{
+    border: 2px solid black;
+    width: 50%;
+    padding: 15px;
+    padding-top: 40px;
+}
+
+
+
+.Mango{
+    display: flex;
+   gap: 40px;
+justify-content: center;
+margin: 80px;
+}
+
+
+.Nut{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    margin: 80px;
+    
+}
+.Eight{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+
+}
+
+.aaa{
+   
+    display: flex;
+    gap: 20px;
+    margin: 50p;
+    
+   
+}
+.bbb{ border: 5px solid blue;
+   padding: 15px;
+width: 50%;
+    
+}
+.ccc{
+    border: 5px solid blue;
+    padding: 15px;
+    width: 50%;
+}
+.eee{border: 5px solid blue;
+    padding: 15px;
+    width: 50%;
+}
+
+
+
